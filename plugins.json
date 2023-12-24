@@ -274,9 +274,9 @@
             "Anime"
         ],
         "version": 8,
-        "internalName": "MyCimaProvider",
-        "url": "https://codeberg.org/cloudstream/arab/raw/branch/builds/MyCimaProvider.cs3",
-        "name": "MyCimaProvider"
+        "internalName": "WeCimaProvider",
+        "url": "https://github.com/msftviptv/stream/raw/main/builds/MyCimaProvider.cs3,
+        "name": "WeCimaProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=shahid4u.cc&sz=%size%",
